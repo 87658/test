@@ -6,13 +6,4 @@ for (var i=0; i <= getGetOrdinal(4).length; i++) {
         n += getGetOrdinal(nums[i]);
     }  
 }
-console.log(n);
-for (var i=0; i <= getGetOrdinal(4).length; i++) {
-    if (n < getGetOrdinal(n)) {
-        if (i > 0) {
-            n += ', ';
-        }
-        n += getGetOrdinal(nums[i]);
-    }  
-}
-console.log(n);
+
