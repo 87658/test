@@ -6,6 +6,6 @@ for (var i=0; i <= getGetOrdinal(4).length; i++) {
         n += getGetOrdinal(nums[i]);
     }  
 }
-console.log(n);
+
 
 
